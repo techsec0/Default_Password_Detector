@@ -78,5 +78,4 @@ run_gui.bat
 ### Note:
 The tool currently uses a Windows batch (.bat) file for controlled and secure execution of the application. This approach ensures consistent startup configuration and safe environment initialization. In future versions, the batch launcher will be replaced with a compiled executable (.exe) to improve portability, usability, and deployment security.
 
-# Default_Password_Detector
-Security tool that scan port for check default password on that !
+# Security tool that scan port for check default password on that !
