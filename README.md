@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Default Password Detector 🔐
 
 ## Overview
@@ -9,10 +8,11 @@ The project includes a **Java-based GUI**, a **Python detection script**, and **
 ---
 
 ## Team Members
-- Yash Patel – Project Lead & Security/Core Logic
-- Gaurav Kumavat – Java GUI Development
-- Parth Rathod – Core Logic & Data Handling
-- Shoaib Patel – Database & Documentation
+**This project is actively maintained by the development team. We continuously improve reliability, fix issues, and add new features based on project requirements and security best practices.**
+- Yash Patel – **Project Lead & Security/Core Logic**
+- Gaurav Kumavat – **Java GUI Development**
+- Parth Rathod – **Core Logic & Data Handling**
+- Shoaib Patel – **Database & Documentation**
 
 ---
 
@@ -39,6 +39,17 @@ DefaultPasswordDetector/
 - JSON files for credential storage
 - Easy execution using a batch script
 
+## Advanced fetures
+- **Advanced Detection & Accuracy**
+The system is designed to minimize false positives by validating detected credentials against structured datasets and contextual checks, improving the accuracy and reliability of results.
+
+- **Automated Dependency Handling**
+The project supports automatic installation and management of required libraries, ensuring smoother setup and consistent execution across environments.
+
+- **Network & Credential Scanning Capabilities**
+The tool is capable of scanning single IP addresses, IP ranges, and full subnets to identify active hosts and evaluate SSH and FTP services for default or weak password usage.
+It supports automated password checks on exposed services, enabling practical assessment of common credential-based security risks in network environments.
+
 ---
 
 ## Technologies Used
@@ -62,8 +73,9 @@ DefaultPasswordDetector/
 ### 1️⃣ Run Java GUI
 Double-click on run_gui or run from command prompt:
 ```bash
-run_gui.bat
+**run_gui.bat**
+[The tool currently uses a Windows batch (.bat) file for controlled and secure execution of the application. This approach ensures consistent startup configuration and safe environment initialization. In future versions, the batch launcher will be replaced with a compiled executable (.exe) to improve portability, usability, and deployment security.]
 =======
 # Default_Password_Detector
 Security tool that scan port for check default password on that !
->>>>>>> c5d373f5d8098cc7448e927c93ce53a8b8bbdeee
+
