@@ -70,12 +70,10 @@ It supports automated password checks on exposed services, enabling practical as
 
 ## How to Run the Project
 
-### 1️⃣ Run Java GUI
+### Run Java GUI
 Double-click on run_gui or run from command prompt:
 ```bash
 run_gui.bat
 ```
 ### Note:
 The tool currently uses a Windows batch (.bat) file for controlled and secure execution of the application. This approach ensures consistent startup configuration and safe environment initialization. In future versions, the batch launcher will be replaced with a compiled executable (.exe) to improve portability, usability, and deployment security.
-
-# Security tool that scan port for check default password on that !
