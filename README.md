@@ -10,7 +10,7 @@ The project includes a **Java-based GUI**, a **Python detection script**, and **
 ## Team Members
 **This project is actively maintained by the development team. We continuously improve reliability, fix issues, and add new features based on project requirements and security best practices.**
 - Yash Patel – **Project Lead & Security/Core Logic**
-- Gaurav Kumavat – **Java GUI Development**
+- Gaurav Kumavat – **Java/JavaFX GUI Development**
 - Parth Rathod – **Core Logic & Data Handling**
 - Shoaib Patel – **Database & Documentation**
 
